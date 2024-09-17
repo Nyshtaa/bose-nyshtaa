@@ -39,6 +39,6 @@ To run the website locally, follow these steps:
   open index.html
   ```
 
-Future Improvements
-Add more sections to feature individual products.
-Integrate animations and transitions for a more dynamic user experience.
+## Future Improvements
+- Add more sections to feature individual products.
+- Integrate animations and transitions for a more dynamic user experience.
