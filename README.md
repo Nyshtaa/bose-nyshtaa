@@ -26,14 +26,18 @@ To run the website locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/bose-landing-page.git
-Navigate to the project directory:
+   ```
+2. Navigate to the project directory:
 
-bash
-cd bose-landing-page
-Open the index.html file in your preferred browser:
+  ```bash
+  cd bose-landing-page
+  ```
 
-bash
-open index.html
+3.Open the index.html file in your preferred browser:
+
+  ```bash
+  open index.html
+  ```
 
 Future Improvements
 Add more sections to feature individual products.
